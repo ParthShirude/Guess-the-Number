@@ -1,3 +1,5 @@
+#Guessing Number Game
+#Importing the random function
 import random
 
 line = "-" * 100
